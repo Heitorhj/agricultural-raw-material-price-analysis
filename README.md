@@ -130,8 +130,7 @@ Durante este projeto foram praticados conceitos importantes de Análise de Dados
 
 ---
 
-## 👨‍💻 Autor
+## 👤 Autor
 
-**Heitor Júlio de Souza Batista**
+Feito por **[Heitor Batista]** · [LinkedIn](https://linkedin.com/in/heitor-julio) · [GitHub](https://github.com/Heitorhj)
 
-GitHub: https://github.com/Heitorhj
