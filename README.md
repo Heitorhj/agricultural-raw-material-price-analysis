@@ -108,11 +108,13 @@ jupyter notebook
 ## 📌 Estrutura do projeto
 
 ```text
-.
+materials-price-analysis/
+│
+├── .venv/                    
+├── .gitignore
 ├── agricultural_raw_material.csv
 ├── analise_agricultural.ipynb
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
